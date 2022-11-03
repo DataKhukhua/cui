@@ -78,5 +78,3 @@ func ReplaceSaveResponseFile(filePath string, responseBody string) error {
 	return nil
 
 }
-
-// func ReplaceFile() {}
